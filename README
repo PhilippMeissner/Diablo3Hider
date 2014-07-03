@@ -1,4 +1,5 @@
 Diablo 3 - Window Hider by Tracky
+Latest version: 1.1
 
 This tool will make your Diablo 3 window invisible, yet accessable by other programs (such as Demonbuddy for example).
 
@@ -10,5 +11,15 @@ How to use it?
 - Follow the onscreen instructions.
 - Profit.
 
+==============================================
+Changelog:
 
+1.1:
+- added version
+- added bWindowVisibility (visibility state of Diablo 3)
+- fixed situation where window would not appear again
+
+1.0:
+- initial release 
+==============================================
 Suggestions/Problems/Whatever: Send me an email (tracky@d3scene.com) or contact me via Github.com/PhilippMeissner/
