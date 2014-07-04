@@ -8,7 +8,7 @@ int main() {
 	bool bWindowVisibility = IsWindowVisible(hwnd);
 
 
-	cout << "\t\t\tDiablo 3 - Hider by v.1.2 Tracky\n\n\n";
+	cout << "\t\t\tDiablo 3 - Hider v.1.2 by Tracky\n\n\n";
 	cout << "Numpad 8 -> Hide Diablo 3\n";
 	cout << "Numpad 9 -> Show Diablo 3\n";
 	cout << "Numpad 0 -> Close program\n\n\n";
